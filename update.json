@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "changelog": "- Thêm tính năng xuất Cookie\n- Fix lỗi treo thanh Footer\n- Tối ưu hóa API",
   "download_url": "https://github.com/piilongk/ig_reg_tool/releases/download/v1.0.0/IG_Creator_Pro.exe"
 }
